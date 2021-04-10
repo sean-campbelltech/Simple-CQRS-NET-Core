@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 using CQRS.Simple.Events;
-using ReflectionMagic;
+using CQRS.Simple.Extensions;
 
 namespace CQRS.Simple.Aggregates
 {

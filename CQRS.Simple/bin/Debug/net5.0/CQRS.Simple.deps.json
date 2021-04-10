@@ -7,23 +7,8 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "CQRS.Simple/1.0.0": {
-        "dependencies": {
-          "ReflectionMagic": "4.1.0"
-        },
         "runtime": {
           "CQRS.Simple.dll": {}
-        }
-      },
-      "Microsoft.CSharp/4.4.1": {},
-      "ReflectionMagic/4.1.0": {
-        "dependencies": {
-          "Microsoft.CSharp": "4.4.1"
-        },
-        "runtime": {
-          "lib/netstandard2.0/ReflectionMagic.dll": {
-            "assemblyVersion": "4.1.0.0",
-            "fileVersion": "4.1.0.0"
-          }
         }
       }
     }
@@ -33,20 +18,6 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
-    },
-    "Microsoft.CSharp/4.4.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-A5hI3gk6WpcBI0QGZY6/d5CCaYUxJgi7iENn1uYEng+Olo8RfI5ReGVkjXjeu3VR3srLvVYREATXa2M0X7FYJA==",
-      "path": "microsoft.csharp/4.4.1",
-      "hashPath": "microsoft.csharp.4.4.1.nupkg.sha512"
-    },
-    "ReflectionMagic/4.1.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-5gsbb2VLQVS//2DjyOWztkd1JaT5B4M3qFXs1n40I8E7SEVSP19CEGLT8Gf++d2YB4UkZf4gE+FZ8QWBbG3Dng==",
-      "path": "reflectionmagic/4.1.0",
-      "hashPath": "reflectionmagic.4.1.0.nupkg.sha512"
     }
   }
 }
