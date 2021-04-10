@@ -15677,11 +15677,6 @@
       "FilePath": "/home/sean/Source/Simple-CQRS-NET-Core/CQRS.Gui/Views/Shared/_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/sean/Source/Simple-CQRS-NET-Core/CQRS.Gui/Views/Home/Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"
