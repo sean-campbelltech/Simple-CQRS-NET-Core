@@ -15629,8 +15629,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/sean/Source/Simple-CQRS-NET-Core/CQRS.Gui/Views/Home/ChangeName.cshtml",
+      "TargetPath": "Views\\Home\\ChangeName.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/sean/Source/Simple-CQRS-NET-Core/CQRS.Gui/Views/Shared/Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/sean/Source/Simple-CQRS-NET-Core/CQRS.Gui/Views/Home/CheckIn.cshtml",
+      "TargetPath": "Views\\Home\\CheckIn.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15641,6 +15651,26 @@
     {
       "FilePath": "/home/sean/Source/Simple-CQRS-NET-Core/CQRS.Gui/Views/Home/Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/sean/Source/Simple-CQRS-NET-Core/CQRS.Gui/Views/Home/Details.cshtml",
+      "TargetPath": "Views\\Home\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/sean/Source/Simple-CQRS-NET-Core/CQRS.Gui/Views/Home/Deactivate.cshtml",
+      "TargetPath": "Views\\Home\\Deactivate.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/sean/Source/Simple-CQRS-NET-Core/CQRS.Gui/Views/Home/Remove.cshtml",
+      "TargetPath": "Views\\Home\\Remove.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/sean/Source/Simple-CQRS-NET-Core/CQRS.Gui/Views/Home/Add.cshtml",
+      "TargetPath": "Views\\Home\\Add.cshtml",
       "FileKind": "mvc"
     },
     {
