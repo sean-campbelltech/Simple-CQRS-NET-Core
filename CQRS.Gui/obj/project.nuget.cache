@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "gqTdMBbJfXH3ckBNJN5yBF6un4Uv8inO+FsolkEdX73pE51NcS6QQVYt16Os8X2EmUImw7dLfL+BnuF58p8Rfw==",
+  "dgSpecHash": "tvnluMwO/gbs+J1Ywn8uARN5Q727xKy9Ywx6FgWxdG013X4J7robW1IR+1BkUwW6g2mw3TC4SVjn9zy+baWZvA==",
   "success": true,
   "projectFilePath": "/home/sean/Source/Simple-CQRS-NET-Core/CQRS.Gui/CQRS.Gui.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/sean/.nuget/packages/microsoft.csharp/4.4.1/microsoft.csharp.4.4.1.nupkg.sha512",
+    "/home/sean/.nuget/packages/reflectionmagic/4.1.0/reflectionmagic.4.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

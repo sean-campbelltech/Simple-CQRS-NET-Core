@@ -40,3 +40,4 @@
 /home/sean/Source/Simple-CQRS-NET-Core/CQRS.Gui/obj/Debug/net5.0/ref/CQRS.Gui.dll
 /home/sean/Source/Simple-CQRS-NET-Core/CQRS.Gui/obj/Debug/net5.0/CQRS.Gui.pdb
 /home/sean/Source/Simple-CQRS-NET-Core/CQRS.Gui/obj/Debug/net5.0/CQRS.Gui.genruntimeconfig.cache
+/home/sean/Source/Simple-CQRS-NET-Core/CQRS.Gui/bin/Debug/net5.0/ReflectionMagic.dll
